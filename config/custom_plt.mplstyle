@@ -1,0 +1,19 @@
+axes.titlesize : 24
+axes.labelsize : 20
+lines.linewidth : 2
+lines.markersize : 8
+xtick.labelsize : 16
+ytick.labelsize : 16
+text.usetex: True
+text.latex.preamble :  \usepackage{amssymb} \usepackage{wasysym}
+axes.grid: True
+grid.alpha: 0.1
+xtick.direction: in
+ytick.direction: in
+xtick.major.size: 5
+ytick.major.size: 5
+legend.frameon: False
+legend.fontsize: 16
+legend.fancybox: False
+savefig.bbox: tight
+figure.figsize: 8, 6
